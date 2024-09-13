@@ -25,24 +25,7 @@ possibilidades que você aprendeu durante o conteúdo.
 
 5. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'.
 
-# imagens do inputs
-![placa](https://1drv.ms/i/c/e1b3ea22fd86bbf6/EUI1JDmeJ9pCo1V1WGGID1IB2CMqjrLjce4dvVHBZoSY-A?e=uUoQl1)
-
-![propaganda](https://1drv.ms/i/c/e1b3ea22fd86bbf6/EctZ721t_o9ElPNNfC2-iuABoT8ZXoXZvJ5ogC5gB1ofCg?e=QwYdTE)
-
-![perigo](https://1drv.ms/i/c/e1b3ea22fd86bbf6/ER2_Cf7S9O5PhtvoKfz7a8ABFchR23pgPYz27Jz1yj6fZA?e=mBR3pW)
-
 # prints do output
 ![alt text](<Captura de tela 2024-09-13 173733.png>)
 ![alt text](<Captura de tela 2024-09-13 173607.png>) 
 ![Captura de tela 2024-09-13 174153](https://github.com/user-attachments/assets/34e3ce8e-9adb-4e7e-a681-a6d80524cd2e)
-
-sobre o funcionamento das IAs e como elas
-
-podem contribuir para a sociedade em geral. Quanto ao desafio, embora eu não tenha compreendido
-
-totalmente o propósito no início, foi muito gratificante chegar até o final. Já tinha algum 
-
-conhecimento sobre ferramentas como o Copilot e um pouco de como ele pode ajudar em diversas áreas,
-
-seja na criação de imagens, na revisão de textos ou até mesmo nos estudos de forma geral.
