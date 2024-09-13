@@ -35,6 +35,7 @@ possibilidades que você aprendeu durante o conteúdo.
 # prints do output
 ![alt text](<Captura de tela 2024-09-13 173733.png>)
 ![alt text](<Captura de tela 2024-09-13 173607.png>) 
+![Captura de tela 2024-09-13 174153](https://github.com/user-attachments/assets/34e3ce8e-9adb-4e7e-a681-a6d80524cd2e)
 
 sobre o funcionamento das IAs e como elas
 
